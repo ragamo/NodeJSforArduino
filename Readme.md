@@ -3,7 +3,7 @@ NodeJS for Arduino
 
 Source: http://giorgiocefaro.com/blog/installing-node-js-on-arduino-yun
 
-NodeJS compilated by Nikola Gluhovic (version 0.10.20 with SSL support)
+NodeJS compiled by Nikola Gluhovic (version 0.10.20 with SSL support)
 
 
 How to Install on Arduino
@@ -31,7 +31,7 @@ For test the installation, execute:
 Usage
 -----
 
-You can execute Node process in your sketchs:
+Now you can execute Node process in your sketchs:
 
 	Process node;
   	node.begin("node");
