@@ -42,3 +42,8 @@ Now you can execute Node process in your sketchs:
 		char c = node.read(); 
 		Serial.print(c);
 	}
+	
+
+Experiments
+-----------
+Some experiments here: https://github.com/ragamo/ArduinoLab
